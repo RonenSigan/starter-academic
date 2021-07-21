@@ -12,4 +12,5 @@ design:
     color: "#315bd6"
     gradient_start: "#4ba7e6"
     gradient_end: "#425ae4"
+    image: icon.png
 ---
